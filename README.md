@@ -1,4 +1,4 @@
-# Customer-Behavior-Analysis-and-Business-Insights
+# Customer Behavior Analysis and Business Insights
 
 
 ## Project Overview
